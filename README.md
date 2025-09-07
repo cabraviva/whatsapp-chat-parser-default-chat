@@ -1,6 +1,6 @@
 # WhatsApp Chat Parser Website
 
-# Changes by CabraViva
+## Changes by CabraViva
 This is just a slightly modified version of the awesome [Whatsapp Chat Parser by Pustur](https://github.com/Pustur/whatsapp-chat-parser-website), big thanks there!
 My version allows you to upload a pre-exported chat zip-file before building, so that it always gets loaded automatically, no need to keep the zip.
 Then, you can just upload the build folder to a static file server, and enjoy!
