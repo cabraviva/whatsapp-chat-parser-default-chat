@@ -3,7 +3,7 @@ import { atom } from 'jotai';
 import { DateBounds, FilterMode, ILimits } from '../types';
 
 const DEFAULT_LOWER_LIMIT = 1;
-const DEFAULT_UPPER_LIMIT = 100;
+const DEFAULT_UPPER_LIMIT = 50000;
 
 const globalFilterModeAtom = atom<FilterMode>('index');
 
